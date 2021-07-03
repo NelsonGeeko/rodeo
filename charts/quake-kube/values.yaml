@@ -2,7 +2,7 @@ image:
   tag: ""
 
 server:
-  password: changeme
+  password: 0changeme0
   maxClients: 12
 
 fragLimit: 25
