@@ -3,12 +3,12 @@ image:
 
 server:
   password: 0changeme0
-  maxClients: 12
+  maxClients: 100
 
 fragLimit: 25
 timeLimit: 15m
 bot:
-  minPlayers: 3
+  minPlayers: 100
 
 game:
   type: FreeForAll
