@@ -8,7 +8,7 @@ server:
 fragLimit: 25
 timeLimit: 15m
 bot:
-  minPlayers: 10
+  minPlayers: 3
 
 game:
   type: FreeForAll
