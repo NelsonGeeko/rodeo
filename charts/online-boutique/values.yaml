@@ -9,9 +9,9 @@ ingress:
   paths: []
   host: nip.io
   tls: []
-  #  - secretName: chart-example-tls
-  #    hosts:
-  #      - chart-example.local
+    - secretName: store.geekosoup.com-tls
+      hosts:
+        - store.geekosoup.com
 
 loadGenerator:
   enabled: true
