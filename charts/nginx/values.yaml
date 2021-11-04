@@ -47,7 +47,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: webdemo.geekosoup.com
+    - host: nginx.geekosoup.com
       paths:
         - path: /
           pathType: ImplementationSpecific
