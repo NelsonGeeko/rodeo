@@ -26,7 +26,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   paths: []
-  host: myapp.geekosoup.com
+  host: nbmyapp.geekosoup.com
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
