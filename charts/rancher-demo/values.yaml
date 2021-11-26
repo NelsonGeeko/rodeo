@@ -16,7 +16,7 @@ app:
     color: "black"  # container background color (any color name from the CSS pallete)
 
 service:
-  type: LoadBalancer
+  type: ClusterIP
   port: 80
   nodePort: ""
 
