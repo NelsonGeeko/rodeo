@@ -11,8 +11,8 @@ fullnameOverride: ""
 
 app:
   localization:
-    title: "Rancher Demo App"
-    pets: "chameleons"  # available pets include 'cows' and 'chameleons' and possibly 'cowmeleons'
+    title: "DevOps Live"
+    pets: "cowmeleons"  # available pets include 'cows' and 'chameleons' and possibly 'cowmeleons'
     color: "black"  # container background color (any color name from the CSS pallete)
 
 service:
