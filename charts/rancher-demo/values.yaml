@@ -18,7 +18,7 @@ app:
 service:
   type: LoadBalancer
   port: 80
-  nodePort: "8080"
+  #nodePort: "8080"
 
 ingress:
   enabled: true
