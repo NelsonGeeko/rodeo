@@ -1,4 +1,4 @@
-replicaCount: 20
+replicaCount: 50
 
 image:
   repository: bashofmann/rancher-demo
@@ -12,8 +12,8 @@ fullnameOverride: ""
 app:
   localization:
     title: "ranceher demo"
-    pets: "cowmeleons"  # available pets include 'cows' and 'chameleons' and possibly 'cowmeleons'
-    color: "black"  # container background color (any color name from the CSS pallete)
+    pets: "cows"  # available pets include 'cows' and 'chameleons' and possibly 'cowmeleons'
+    color: "white"  # container background color (any color name from the CSS pallete)
 
 service:
   type: NodePort
